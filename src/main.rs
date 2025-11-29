@@ -226,10 +226,8 @@ fn main() -> io::Result<()> {
             score += 1;
         }
 
-        for node in 0..snake_length {
-            if [head[0], head[1]] == [snake[node][0], snake[node][1]] {
-                break;
-            }
+        if snake[1..snake_length - 1].contains(&head) {
+            break;
         }
 
         let direction: [i16; 2] = handle_input(&mut x, &mut y, duration)?;
