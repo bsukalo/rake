@@ -39,10 +39,17 @@ or manually copy the binary:
 ```bash
   sudo cp target/release/rake /usr/local/bin/
 ```
+
 and run!
 ```bash
   rake
 ```
+
+### How to remove from PATH
+```bash
+  cargo uninstall rake
+```
+
 
 
 ## License
