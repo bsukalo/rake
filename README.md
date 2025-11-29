@@ -48,9 +48,8 @@ and run!
 ### How to remove from PATH
 ```bash
   cargo uninstall rake
-```
-
-
+  sudo rm /usr/local/bin/rake
+```a
 
 ## License
 
