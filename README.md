@@ -49,7 +49,7 @@ and run!
 ```bash
   cargo uninstall rake
   sudo rm /usr/local/bin/rake
-```a
+```
 
 ## License
 
