@@ -1,7 +1,7 @@
 # rake
 
 <p align="center">
-  <img width="553" height="479" alt="Screenshot 2025-11-29 at 12 44 08" src="https://github.com/user-attachments/assets/5c4a74bd-4156-4987-aabe-797c1198b4ca" />
+  <img width="441" height="359" alt="Screenshot 2025-11-29 at 17 51 29" src="https://github.com/user-attachments/assets/faa982c2-5ecc-4785-96c3-2a14c21dc35f" />
 </p>
 
 Snake, but in the terminal, and written in Rust.
@@ -21,7 +21,7 @@ Snake, but in the terminal, and written in Rust.
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/rake.git
+   git clone https://github.com/bsukalo/rake.git
    cd rake
 ```
 
