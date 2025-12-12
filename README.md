@@ -4,7 +4,7 @@
   <img width="441" height="359" alt="Screenshot 2025-11-29 at 17 51 29" src="https://github.com/user-attachments/assets/faa982c2-5ecc-4785-96c3-2a14c21dc35f" />
 </p>
 
-Snake, but in the terminal, and written in Rust.
+Snake, but in the terminal.
 
 ## Building from Source
 
