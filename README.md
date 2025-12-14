@@ -21,7 +21,7 @@ Snake, but in the terminal.
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/bsukalo/rake.git
+   git clone https://github.com/bnjjo/rake.git
    cd rake
 ```
 
