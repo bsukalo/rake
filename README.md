@@ -1,7 +1,8 @@
 # rake
 
 <p align="center">
-  <img width="441" height="359" alt="Screenshot 2025-11-29 at 17 51 29" src="https://github.com/user-attachments/assets/faa982c2-5ecc-4785-96c3-2a14c21dc35f" />
+  <img width="441" height="359" alt="rake_screenshot1" src="https://github.com/user-attachments/assets/faa982c2-5ecc-4785-96c3-2a14c21dc35f" />
+  <img width="441" height="361" alt="rake_screenshot2" src="https://github.com/user-attachments/assets/7ef46246-6b69-4b40-9bda-2e2630ddb46a" />
 </p>
 
 Snake, but in the terminal.
